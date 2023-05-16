@@ -10,7 +10,7 @@ I am a Second year undergrad at Galgotias University currently pursuing<br> my b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kumarankit999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumarankit999&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarankit999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumarankit999&theme=radical&no-frame=false&no-bg=false&margin-w=4)
