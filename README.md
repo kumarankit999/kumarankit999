@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Second year undergrad at Galgotias University currently pursuing<br> my bachelor's degree in Computer Science and Engineering .<br>I do great work in community. Whenever I am not doing programming I like to cooking & playing Football.
+Hello Everyone, I am a Full Stack(MERN) Developer. Open-Source is Love and also Writes Blog Content Around Open-Source and Web-Development.<br>I do great work in community. Whenever I am not doing programming I like to cooking & playing Football.
 
 
 ## 🌐 Socials:
