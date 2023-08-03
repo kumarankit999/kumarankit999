@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone, I am a Full Stack(MERN) Developer. I love Open-Source and also I Write Blogs Around Open-Source and Web-Development.I do great work in community. Whenever I am not doing programming I like to cooking & playing Football.
+Hello Everyone, I am a Full Stack(MERN) Developer.I love Open-Source and also I Write Blogs Around Open-Source and Web-Development.I do great work in community. Whenever I am not doing programming I like to cooking & playing Football.
 
 
 ## 🌐 Socials:
