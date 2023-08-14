@@ -26,6 +26,5 @@
 - [Beginning-to-open-source](https://kumarankit1.hashnode.dev/beginning-to-open-source)
 - [Git Essentials](https://kumarankit1.hashnode.dev/mindsdb)
 - [Character Set In Regular Expressions](https://kumarankit1.hashnode.dev/character-set-in-regular-expressions)
-- [Ultimate Intro. to Bootstrap](https://kumarankit1.hashnode.dev/ultimate-intro-to-bootstrap)
 - [Open Source](https://kumarankit1.hashnode.dev/open-source)
 <!-- BLOG-POST-LIST:END -->
