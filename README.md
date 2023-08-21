@@ -6,10 +6,10 @@
 - <b> I'm Ankit (he/him),</b> I am a Web-developer advocating for Open Source
 - Learning <b>DevOps</b>.
 - Exploring <b>Cloud-Native EcoSystem</b>
-- Learning and sharing my progress in public on Twitter.</a>
+- Learning and sharing my progress in public on Twitter</a>
 - Technical Writer/Blogger
-- Experienced in Web Development and Football.
-- Continuously learning and engaging with the tech communities.
+- Experienced in Web Development and Football
+- Continuously learning and engaging with the tech communities
 
 <!-- My Skills -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,github,materialui,gitlab,java,js,go,gcp,bash,git,githubactions,figma,py,linux,netlify,vscode,postman,react,mysql,arduino&perline=8)](https://skillicons.dev)
