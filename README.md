@@ -12,7 +12,7 @@
 - Continuously learning and engaging with the tech communities
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,github,materialui,gitlab,java,js,go,gcp,bash,git,githubactions,figma,py,linux,netlify,vscode,postman,react,mysql,arduino&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,github,materialui,gitlab,java,js,go,gcp,bash,git,githubactions,kubernetes,docker,figma,py,linux,netlify,vscode,postman,react,mysql,arduino&perline=8)](https://skillicons.dev)
 
 <!-- Socials stats -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ankiit111)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-k-6217b6225/)
