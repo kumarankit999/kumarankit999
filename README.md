@@ -10,6 +10,7 @@
 - Technical Writer/Blogger
 - Experienced in Web Development and Football
 - Continuously learning and engaging with the tech communities
+- Technologies That I am proud of:
 
 <!-- My Skills -->
 [![My Skills](https://skillicons.dev/icons?i=arduino,html,css,bootstrap,materialui,js,react,postman,mysql,github,gitlab,java,bash,powershell,git,githubactions,go,py,linux,ansible,docker,kubernetes,jenkins,aws,gcp,netlify,vscode&perline=8)](https://skillicons.dev)
