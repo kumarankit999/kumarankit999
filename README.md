@@ -7,6 +7,7 @@
 - Technical Writer/Blogger
 - Experienced in Web Development, Artificial Intelligence and Football
 - Continuously learning and engaging with the Tech communities
+- Get my Resume: [Click Here](https://drive.google.com/file/d/1XlSLyvCg2D3-xPQMG1k4_6MIHf8xG4NR/view?usp=sharing)
 - Technologies That I am proud of:
 
 <!-- My Skills -->
