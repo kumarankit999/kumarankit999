@@ -4,7 +4,7 @@
 - <b> I'm Ankit (he/him),</b> I am a DevOps & GO Developer Advocating for Open Source
 - Mastering <b>DevOps & Cloud-Native EcoSystem</b>.
 - Always Learning and sharing my progress in public on Twitter</a>
-- I have also been part of LFX Mentorship as a mentee in [Cloudforet](https://github.com/cloudforet-io) Project (Plugin Development) & Approver in CNCF [Glossary](https://github.com/cncf/glossary)
+- I have also been selected in LFX Mentorship as a mentee in [Cloudforet](https://github.com/cloudforet-io) Project (Plugin Development) & Approver in CNCF [Glossary](https://github.com/cncf/glossary)
 - Technical Writer/Blogger
 - Experienced in Web Development, Networking, Artificial Intelligence and Football
 - Continuously learning and engaging with the Tech communities
